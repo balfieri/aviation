@@ -35,6 +35,9 @@ Because the box acts as a wi-fi router, we could also add a low-earth satellite 
 give everyone some internet at higher altitudes.  Unfortuntely, the bandwidth from these satellites can be 
 quite low.  Maybe that will change.
 
+Come to think of it, this box could be used in a car, too.  Also, anywhere multiple people are studying near each other
+and don't want to disturb other people.
+
 Software libraries used:
 * portaudio
 * airplay2-receiver
