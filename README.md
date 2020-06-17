@@ -19,8 +19,8 @@ There will be a switch that allows the pilot to force his voice to be broadcast 
 hear everyone else.
 
 There will be web options to control how music sources will be attenuated when someone is speaking.  For 
-example, when the pilot is making an announcement, it may be wise to drastically attenuate all airplay sources.
-In other cases, 50% attenuation may be a better choice.
+example, when the pilot is making an announcement, it may be wise to drastically attenuate all airplay sources
+(better: pause them).  In other cases, 50% attenuation may be a better choice.
 
 One safety issue is that the pilot must always be able to hear and speak on the radio.
 At the very least, there will
