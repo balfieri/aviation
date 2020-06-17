@@ -29,6 +29,10 @@ is how the pilot will know to do this.  One option is to add an analog device th
 and lights up a green LED.  If the pilot doesn't hear anything through the box when he sees the green light, 
 then he knows to flip the switch to fail-over to the analog ports.
 
+Because the box acts as a wi-fi router, we could also add a low-earth satellite internet module to
+give everyone some internet at higher altitudes.  Unfortuntely, the bandwidth from these satellites can be 
+quite low.  Maybe that will change.
+
 Software libraries used:
 * portaudio
 * airplay2-receiver
