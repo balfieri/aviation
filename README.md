@@ -3,7 +3,7 @@ These ideas will get spun off into separate repositories if and when they are st
 ## Digital Audio Hub
 
 This is a project I am just getting started on.  The idea is to take a Raspberry Pi 4B ($60) and
-some cheap USB sound adapters ($17) and create a centralized box in the airplane where everyone
+some USB sound adapters ($17 each) and create a centralized box in the airplane where everyone
 plugs in his/her headset.  Analog versions of these exist.  The digital version will add these features:
 
 * each person can airplay music from his phone/tablet to the box
