@@ -55,8 +55,7 @@ report.  And possibly gain a litle deeper insight into the root causes.
 Ultimately, we'd like to be able to take in all kinds of data from preflight planning as well as realtime
 systems monitoring, and then predict the pilot's chances of having an accident at any given moment.  
 By doing stealth monitoring of systems and adjustments made by pilots, we may be able to 
-learn to predict courses of action that pilots should take to correct issues in realtime, 
-and then suggest them for subsequent flights.
+learn to predict actions that pilots should take to correct unsafe situations in realtime.
 
 Initially the data gathering would be done in a way that does not distract any pilot.  Ideally, we'd leave 
 the probes on airplanes for numerous months without anyone even knowing besides the owners.
