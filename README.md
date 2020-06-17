@@ -66,3 +66,6 @@ Software used:
 uses such as drawing graphs)
 * neural net that is good at natural language (LSTM is the obvious choice, but these keep evolving, just
 use the latest and greatest)
+
+Bob Alfieri<br>
+Chapel Hill, NC
