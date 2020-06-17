@@ -12,7 +12,7 @@ plugs in his/her headset.  Analog versions of these exist.  The digital version 
   * aviation radio
   * which other people (up to 4)
   * which airplay source (1 of 4)
-  * flash drive music (album, playlist, etc.)
+  * flash drive music (album, playlist, etc.) with ability to synchronize stream with other passengers
   * and at which volumes for each of those
 
 The box will provide analog output for each set of headphones, but audiophiles may feed USB output to their own headphone amp (such as the awesome FiiO Q5s).
