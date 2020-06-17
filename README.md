@@ -8,10 +8,10 @@ plugs in their headsets.  Analog versions of these exist.  The digital version w
 
 * ability for each person to airplay the music from their phone/tablet to the box
 * each person can decide using a simple web page (served by the box) which sound sources he/she wishes to hear:
-** aviation radio
-** which other people (up to 4)
-** which airplay source (up to 4)
-** and at what volumes for each of those
+  * aviation radio
+  * which other people (up to 4)
+  * which airplay source (up to 4)
+  * and at what volumes for each of those
 
 The box will provide analog output for each set of headphones, but audiophiles may feed USB output to their own headphone amp (such as the awesome FiiO Q5s).
 
@@ -33,20 +33,22 @@ Software libraries used:
 * portaudio
 * airplay2-receiver
 
-## Applying Artificial Intelligence to Predicting Accidents
+## Applying Artificial Intelligence to Predicting and Preventing Accidents
 
-There are tens of thousands of NTSB reports on plane crashes.  I have written a script to download them all.
+There are tens of thousands of NTSB reports on plane crashes.  I have downloaded all of them in text format.
 
-What I'd like to do is train a neural network to predict outcomes based on projects flight conditions and
+I'd like to train a neural network to predict outcomes based on flight conditions and 
 decisions by pilots.  Initially, just try to predict what kind of accident occurs using the data in the 
-report.
+report.  And possibly gain a litle deeper insight into the causes.
 
 Ultimately, we'd like to be able to take in all kinds of data from preflight planning as well as realtime
-systems monitoring and predict the pilot's chances of having an accident at any given moment.  By doing
-stealth monitoring of systems and adjustments made by pilots, we may be able to learn to predict courses
-of action that pilots should take to correct issues in realtime, and then suggest them.
+aircraft systems monitoring and predict the pilot's chances of having an accident at any given moment.  
+By doing stealth monitoring of systems and adjustments made by pilots, we may be able to 
+learn to predict courses of action that pilots should take to correct issues in realtime, 
+and then suggest them for subsequent flights.
 
-The key here is to do the data gathering in a way that does not distract any pilot.
+Initially the data gathering would be done in a way that does not distract any pilot.  
 
 Software used:
-* probably colab.google.com which is a Python notebook environment that makes deep learning easy and provides a farm of GPUs to crunch the neural net training
+* probably colab.google.com which is a Python notebook environment that makes deep learning easy and provides a farm of GPUs to crunch the neural net training (btw, Python notebooks such as this are great for many other
+uses such as drawing graphs)
