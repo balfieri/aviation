@@ -55,4 +55,5 @@ the probes on airplanes for numerous months without anyone even knowing besides 
 Software used:
 * probably colab.google.com which is a Python notebook environment that makes deep learning easy and provides a farm of GPUs to crunch the neural net training (btw, Python notebooks such as this are great for many other
 uses such as drawing graphs)
-* neural net that is good at natural language (LSTM is the obvious choice, but these keep evolving)
+* neural net that is good at natural language (LSTM is the obvious choice, but these keep evolving, just
+use the latest and greatest)
