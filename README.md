@@ -7,10 +7,12 @@ some USB sound adapters ($17 each) and create a centralized box in the airplane 
 plugs in his/her headset.  Analog versions of these exist.  The digital version will add these features:
 
 * each person can airplay music from his phone/tablet to the box
+* a flash drive containing a bunch of music that can be streamed out
 * each person can decide using a simple web page (served by the box) which sound sources he/she wishes to hear:
   * aviation radio
   * which other people (up to 4)
   * which airplay source (1 of 4)
+  * flash drive music (album, playlist, etc.)
   * and at which volumes for each of those
 
 The box will provide analog output for each set of headphones, but audiophiles may feed USB output to their own headphone amp (such as the awesome FiiO Q5s).
